@@ -67,9 +67,9 @@ More about my work is on [jorgemartins.dev](https://jorgemartins.dev).
 
 ## Certifications
 
-<a href="https://www.credly.com/badges/5479a467-fd50-43df-9a0b-0d433bb755e9"><img src="https://images.credly.com/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/linkedin_thumb_blob" width="110" alt="HashiCorp Certified: Terraform Associate" title="HashiCorp Certified: Terraform Associate"></a>
-<a href="https://www.credly.com/badges/5d8142b5-2a40-4a6a-b4f9-215b2487d92b"><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/linkedin_thumb_blob" width="110" alt="Certified Kubernetes Application Developer (CKAD)" title="Certified Kubernetes Application Developer (CKAD)"></a>
-<a href="https://www.credly.com/badges/e694de1a-9ef8-47fb-b54b-f933dd8ae140"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/linkedin_thumb_cka_from_cncfsite__281_29.png" width="110" alt="Certified Kubernetes Administrator (CKA)" title="Certified Kubernetes Administrator (CKA)"></a>
+[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/5479a467-fd50-43df-9a0b-0d433bb755e9)
+[![Certified Kubernetes Application Developer (CKAD)](https://img.shields.io/badge/Linux_Foundation-Kubernetes_Application_Developer_%28CKAD%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/5d8142b5-2a40-4a6a-b4f9-215b2487d92b)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Linux_Foundation-Kubernetes_Administrator_%28CKA%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/e694de1a-9ef8-47fb-b54b-f933dd8ae140)
 
 ## Contact
 
