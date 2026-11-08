@@ -68,7 +68,9 @@ More about my work is on [jorgemartins.dev](https://jorgemartins.dev).
 ## Certifications
 
 [![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/5479a467-fd50-43df-9a0b-0d433bb755e9)
+
 [![Certified Kubernetes Application Developer (CKAD)](https://img.shields.io/badge/Linux_Foundation-Kubernetes_Application_Developer_%28CKAD%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/5d8142b5-2a40-4a6a-b4f9-215b2487d92b)
+
 [![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Linux_Foundation-Kubernetes_Administrator_%28CKA%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/e694de1a-9ef8-47fb-b54b-f933dd8ae140)
 
 ## Contact
